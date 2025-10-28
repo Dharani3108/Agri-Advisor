@@ -80,7 +80,7 @@ jspm_packages/
 
 # dotenv environment variables file
 .env
-
+.next/
 # Build outputs
 build/
 dist/
